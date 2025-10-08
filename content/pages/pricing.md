@@ -21,7 +21,7 @@ sections:
           - Weekly guided meditation audios (10–15 mins)
           - Introductory spiritual articles & reflections
           - Access to a beginner’s discussion forum
-          - Feature four
+          - Access to monthly live Q&A with a teacher (limited participation)
         image:
           url: /images/image.svg
           altText: Pricing plan 1
