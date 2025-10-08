@@ -692,11 +692,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Awaken your inner energy through guided breath and chakra awareness
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Experience deep inner stillness and energy alignment through conscious
+      breathing.
+
+
+      Join our upcoming meditation sessions or connect with us for personalized
+      guidance on chakra awakening and breath practice.
     media:
       fields:
         - name: name
