@@ -53,7 +53,7 @@ sections:
           - Everything in Seeker tier
           - Advanced meditation sessions (20–40 mins)
           - Deep-dive spiritual workshops & tutorials
-          - Feature four
+          - Guided exercises for self-awareness & energy work
         image:
           url: /images/image (1).svg
           altText: Pricing plan 2
