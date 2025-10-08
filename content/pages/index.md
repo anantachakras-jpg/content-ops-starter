@@ -599,8 +599,9 @@ sections:
       - title: Pranic Flow Mastery
         tagline: This is the tagline
         subtitle: Breathe with awareness
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Understand how prana (life force) flows through the body, and practice
+          rhythmic breathing to deepen your meditation experience.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
