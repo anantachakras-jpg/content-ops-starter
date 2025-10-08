@@ -30,7 +30,9 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/20251008_1147_Milky Way
+        Meditation_remix_01k717bt5he4s8r6xw7n97yf6q.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
