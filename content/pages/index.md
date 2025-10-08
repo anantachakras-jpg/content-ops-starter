@@ -319,7 +319,7 @@ sections:
     subtitle: Awaken the God Within You
     text: "| Icon | Benefit                     | Description                                                  |\n| ---- | --------------------------- | ------------------------------------------------------------ |\n| \U0001F31E   | **Daily Guided Meditation** | Step-by-step cosmic meditations from calmness to awakening.  |\n| \U0001F531   | **Energy Alignment**        | Balance chakras and awaken your kundalini safely.            |\n| \U0001F4AB   | **Community Vibes**         | Meditate with seekers across the world in collective energy. |\n| \U0001F319   | **Lifetime Access**         | Continue your journey anytime — consciousness never stops.   |\n\n\n\n"
     actions:
-      - label: Get started
+      - label: Join Inner Circle
         url: /
         icon: arrowRight
         iconPosition: right
