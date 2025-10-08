@@ -12,7 +12,7 @@ sections:
     subtitle: ''
     plans:
       - title: Seeker
-        price: Free
+        price: Rs. 99 /-
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
