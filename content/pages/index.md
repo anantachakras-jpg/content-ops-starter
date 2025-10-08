@@ -650,7 +650,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: 7 Chakra Activation
-        tagline: Choosen by God
+        tagline: There's No Return
         subtitle: Align your energy centers
         text: |2
            Learn guided breath techniques that activate and balance all seven chakras, harmonizing mind, body, and spirit.
