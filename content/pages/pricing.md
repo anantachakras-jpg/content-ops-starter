@@ -88,7 +88,7 @@ sections:
           - Everything in Seeker + Illuminator tiers
           - Personalized spiritual guidance & mentorship
           - Exclusive advanced masterclasses & rituals
-          - Feature four
+          - Access to elite community circle (private forums & group calls)
           - Feature five
         image:
           url: /images/image (2).svg
