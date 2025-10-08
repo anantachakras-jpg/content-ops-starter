@@ -265,11 +265,24 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Transformation from Within
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      *   **Days 1–7:** *Stillness & Awareness* – Learn to calm the mind and
+      feel your breath.
+
+
+      *   **Days 8–14:** *Inner Healing* – Release stored emotions and negative
+      energy.
+
+
+      *   **Days 15–21:** *Connection* – Experience oneness with universal
+      energy.
+
+
+      *   **Days 22–30:** *Awakening* – Deep meditations to expand consciousness
+      and feel divine presence.
+
+
+
     actions: []
     media:
       title: Title of the video
