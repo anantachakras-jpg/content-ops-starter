@@ -52,7 +52,7 @@ sections:
         features:
           - Everything in Seeker tier
           - Advanced meditation sessions (20–40 mins)
-          - Feature three
+          - Deep-dive spiritual workshops & tutorials
           - Feature four
         image:
           url: /images/image (1).svg
