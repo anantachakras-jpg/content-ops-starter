@@ -32,7 +32,7 @@ sections:
     media:
       url: >-
         /images/20251008_1147_Milky Way
-        Meditation_remix_01k717bt5he4s8r6xw7n97yf6q.png
+        Meditation_remix_01k717bt5he4s8r6xw7n97yf6q.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
