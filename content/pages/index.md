@@ -655,7 +655,9 @@ sections:
         text: |2
            Learn guided breath techniques that activate and balance all seven chakras, harmonizing mind, body, and spirit.
         image:
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/20250921_1224_Tranquil Glowing
+            Orbs_simple_compose_01k5ngs56cf0e9dvz4t00znff1.png
           altText: Placeholder image
           styles:
             self:
