@@ -598,7 +598,7 @@ sections:
     items:
       - title: Pranic Flow Mastery
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Breathe with awareness
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
