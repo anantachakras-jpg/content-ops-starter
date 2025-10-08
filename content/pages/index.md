@@ -409,7 +409,7 @@ sections:
         subtitle: Yuvraj Singh
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/New Project (76).jpg
           altText: Maria Walters
           styles:
             self:
