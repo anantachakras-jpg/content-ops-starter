@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Sage
-        price: Custom
+        price: Rs. 299/-
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
