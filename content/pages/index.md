@@ -9,9 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Join our meditative community for 
-
-      healing and inner peace.
+      Join our meditative community for healing and inner peace.
     actions:
       - label: Get started
         altText: ''
