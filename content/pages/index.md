@@ -287,7 +287,7 @@ sections:
     media:
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=GWrJtU96m9M&t=49s'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: false
       controls: false
