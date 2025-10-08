@@ -56,6 +56,7 @@ sections:
           - Guided exercises for self-awareness & energy work
           - Access to recorded live sessions & workshops
           - Participation in monthly live group meditations
+          - ''
         image:
           url: /images/image (1).svg
           altText: Pricing plan 2
