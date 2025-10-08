@@ -55,6 +55,7 @@ sections:
           - Deep-dive spiritual workshops & tutorials
           - Guided exercises for self-awareness & energy work
           - Access to recorded live sessions & workshops
+          - ''
         image:
           url: /images/image (1).svg
           altText: Pricing plan 2
