@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "\nA meditative community guiding individuals toward inner stillness, awareness, and timeless peace.\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -62,13 +62,13 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://www.youtube.com/@AnantaChakra",
             "icon": "github",
             "type": "Social"
         },
         {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "https://www.instagram.com/ananta_chakra?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
             "icon": "twitter",
             "type": "Social"
         },
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "**© 2025 Ananta Chakra**\n*All rights reserved. Journey inward.*\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
