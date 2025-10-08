@@ -20,7 +20,7 @@ sections:
         features:
           - Weekly guided meditation audios (10–15 mins)
           - Introductory spiritual articles & reflections
-          - Feature three
+          - Access to a beginner’s discussion forum
           - Feature four
         image:
           url: /images/image.svg
