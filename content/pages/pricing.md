@@ -19,7 +19,7 @@ sections:
           curiosity in every moment.
         features:
           - Weekly guided meditation audios (10–15 mins)
-          - Feature two
+          - Introductory spiritual articles & reflections
           - Feature three
           - Feature four
         image:
