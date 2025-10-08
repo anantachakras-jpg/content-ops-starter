@@ -651,7 +651,7 @@ sections:
         type: FeaturedItem
       - title: 7 Chakra Activation
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Align your energy centers
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
