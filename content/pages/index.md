@@ -213,7 +213,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: 30-Day Ananta Chakra Meditation Challenge
       color: text-dark
       styles:
         self:
