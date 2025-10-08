@@ -351,7 +351,7 @@ sections:
       text: Daily Meditations on Instagram
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Increase Your Inner Reach
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
