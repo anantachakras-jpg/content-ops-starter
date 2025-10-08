@@ -89,7 +89,7 @@ sections:
           - Personalized spiritual guidance & mentorship
           - Exclusive advanced masterclasses & rituals
           - Access to elite community circle (private forums & group calls)
-          - Feature five
+          - Early access to new content & events
         image:
           url: /images/image (2).svg
           altText: Pricing plan 3
