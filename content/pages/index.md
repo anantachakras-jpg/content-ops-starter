@@ -333,7 +333,9 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: >-
+        /images/20251007_1528_Astral Projection
+        Moment_simple_compose_01k6z1m91aeh2v23gsb1fwgk0q (2).png
       altText: Fun feature preview
       type: ImageBlock
     badge:
