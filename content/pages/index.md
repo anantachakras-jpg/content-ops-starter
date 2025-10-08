@@ -588,7 +588,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Ananta Chakra Breath Meditation.
       color: text-primary
       styles:
         self:
