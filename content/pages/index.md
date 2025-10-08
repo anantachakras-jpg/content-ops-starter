@@ -223,7 +223,7 @@ sections:
     text: "Join thousands of seekers transforming their lives through daily guided meditation.\n\nEach day takes you one step closer to balance, awareness, and divine connection.\n\n\U0001F4FD️ **Video Block Title:** “Start Your 30-Day Awakening Journey”\n**Subtitle:** Watch how daily meditation is rewiring lives.\n\n\n\n"
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=AT8hFaarJbY&t=244s'
       controls: false
       aspectRatio: '16:9'
       styles:
