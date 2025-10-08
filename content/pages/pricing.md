@@ -18,7 +18,7 @@ sections:
           To explore the depths of consciousness, question the known, and awaken
           curiosity in every moment.
         features:
-          - Feature one
+          - Weekly guided meditation audios (10–15 mins)
           - Feature two
           - Feature three
           - Feature four
