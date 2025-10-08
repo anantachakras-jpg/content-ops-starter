@@ -86,7 +86,7 @@ sections:
           compassion, and lead through presence and discernment.
         features:
           - Everything in Seeker + Illuminator tiers
-          - Feature two
+          - Personalized spiritual guidance & mentorship
           - Feature three
           - Feature four
           - Feature five
