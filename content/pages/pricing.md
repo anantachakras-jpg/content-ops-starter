@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Illuminator
-        price: $99
+        price: Rs. 199/-
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
