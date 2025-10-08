@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Beyond Breath
+      text: 'Beyond Breath. '
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
