@@ -51,7 +51,7 @@ sections:
           others with insight and light.
         features:
           - Everything in Seeker tier
-          - Feature two
+          - Advanced meditation sessions (20–40 mins)
           - Feature three
           - Feature four
         image:
