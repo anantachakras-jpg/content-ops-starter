@@ -597,7 +597,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Pranic Flow Mastery
-        tagline: This is the tagline
+        tagline: Beyond Breath. Beyond Body
         subtitle: Breathe with awareness
         text: >
           Understand how prana (life force) flows through the body, and practice
