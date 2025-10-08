@@ -624,7 +624,7 @@ sections:
         type: FeaturedItem
       - title: Inner Stillness Practice
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Journey beyond thoughts
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
