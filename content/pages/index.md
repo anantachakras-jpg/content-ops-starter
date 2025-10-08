@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Awakening Beyond Limits
     items:
       - type: FeaturedItem
         title: 500k
