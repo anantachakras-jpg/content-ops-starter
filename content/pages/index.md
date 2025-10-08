@@ -625,8 +625,10 @@ sections:
       - title: Inner Stillness Practice
         tagline: This is the tagline
         subtitle: Journey beyond thoughts
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          Experience deep inner silence as you move from breath awareness to
+          pure consciousness.
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
