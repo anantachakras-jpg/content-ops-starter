@@ -120,10 +120,10 @@ sections:
         type: FeaturedItem
       - title: ∞ Expansion
         subtitle: Beyond the Self
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Experience limitless awareness — where ego dissolves, and
+          consciousness expands into the infinite. This is not just meditation;
+          it’s a journey to your highest truth.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
