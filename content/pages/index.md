@@ -588,7 +588,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Ananta Chakra Breath Meditation.
+      text: Discover Ananta Chakra Breath Meditation
       color: text-primary
       styles:
         self:
