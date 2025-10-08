@@ -352,9 +352,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase Your Inner Reach
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Follow us on **@AnantaChakra** for daily live sessions, tips, and powerful
+      affirmations.
+
+
+      Every sunrise brings a new vibration — stay connected with your soul
+      family.
+
     actions:
       - label: Get started
         url: /
