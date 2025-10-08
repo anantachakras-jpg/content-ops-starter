@@ -623,7 +623,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Inner Stillness Practice
-        tagline: This is the tagline
+        tagline: God within You
         subtitle: Journey beyond thoughts
         text: >+
           Experience deep inner silence as you move from breath awareness to
