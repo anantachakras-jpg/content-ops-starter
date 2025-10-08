@@ -95,7 +95,7 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: Join Inner Circle
             url: /
             icon: arrowRight
             iconPosition: right
