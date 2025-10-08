@@ -85,7 +85,7 @@ sections:
           To embody wisdom through experience, balance knowledge with
           compassion, and lead through presence and discernment.
         features:
-          - Feature one
+          - Everything in Seeker + Illuminator tiers
           - Feature two
           - Feature three
           - Feature four
