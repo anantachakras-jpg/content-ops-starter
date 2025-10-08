@@ -652,9 +652,8 @@ sections:
       - title: 7 Chakra Activation
         tagline: This is the tagline
         subtitle: Align your energy centers
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |2
+           Learn guided breath techniques that activate and balance all seven chakras, harmonizing mind, body, and spirit.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
