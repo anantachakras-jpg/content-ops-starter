@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 100k
-        subtitle: Numbers Done
+        subtitle: Instagram Followers
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
