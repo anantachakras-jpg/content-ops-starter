@@ -46,9 +46,9 @@ sections:
       - title: Illuminator
         price: Rs. 199/-
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          To shine clarity on paths unseen, inspire understanding, and guide
+          others with insight and light.
         features:
           - Feature one
           - Feature two
