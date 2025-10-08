@@ -594,7 +594,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Awaken your inner energy through conscious breathing and awareness
     items:
       - title: Pranic Flow Mastery
         tagline: Beyond Breath. Beyond Body
