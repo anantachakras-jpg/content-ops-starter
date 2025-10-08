@@ -316,7 +316,7 @@ sections:
       text: Why Join This Challenge
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Awaken the God Within You
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
