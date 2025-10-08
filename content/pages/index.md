@@ -258,7 +258,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: What Happens in 30 Days?
       color: text-dark
       styles:
         self:
