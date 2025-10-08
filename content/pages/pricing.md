@@ -14,9 +14,9 @@ sections:
       - title: Seeker
         price: Rs. 99/-
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          To explore the depths of consciousness, question the known, and awaken
+          curiosity in every moment.
         features:
           - Feature one
           - Feature two
