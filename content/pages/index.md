@@ -375,7 +375,9 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: >-
+        /images/20251008_1147_Milky Way
+        Meditation_remix_01k717bt5he4s8r6xw7n97yf6q (2).png
       altText: Dope design preview
       type: ImageBlock
     badge:
