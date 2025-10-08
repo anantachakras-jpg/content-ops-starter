@@ -406,7 +406,7 @@ sections:
     items:
       - title: '“After just 10 days, I felt my mind calm like never before..”'
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Yuvraj Singh
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
