@@ -361,7 +361,7 @@ sections:
       family.
 
     actions:
-      - label: Get started
+      - label: Join Inner Circle
         url: /
         icon: arrowRight
         iconPosition: right
