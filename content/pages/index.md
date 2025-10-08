@@ -64,10 +64,10 @@ sections:
       - type: FeaturedItem
         title: 100k
         subtitle: Instagram Followers
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Through guided meditation and energy work, Ananta Chakra has helped
+          over a million seekers reconnect with their inner divine energy —
+          awakening peace, clarity, and cosmic awareness.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
