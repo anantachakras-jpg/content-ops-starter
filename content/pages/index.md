@@ -62,7 +62,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 100k
+        title: + Souls Touched
         subtitle: Instagram Followers
         text: >
           Through guided meditation and energy work, Ananta Chakra has helped
