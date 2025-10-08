@@ -603,7 +603,9 @@ sections:
           Understand how prana (life force) flows through the body, and practice
           rhythmic breathing to deepen your meditation experience.
         image:
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/20251007_1339_Mystical Breath and
+            Stars_simple_compose_01k6yve73neg3atewh7nwehj2c.png
           altText: Placeholder Image
           styles:
             self:
