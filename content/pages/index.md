@@ -630,7 +630,9 @@ sections:
           pure consciousness.
 
         image:
-          url: /images/abstract-feature2.svg
+          url: >-
+            /images/20251007_1337_Transcendental
+            Meditation_simple_compose_01k6yvbe2peh1bkedmqedbyw4r.png
           altText: Placeholder image
           styles:
             self:
