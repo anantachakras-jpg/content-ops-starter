@@ -220,11 +220,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Awaken Your Inner Power. Connect Beyond the Mind.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Join thousands of seekers transforming their lives through daily guided meditation.\n\nEach day takes you one step closer to balance, awareness, and divine connection.\n\n\U0001F4FD️ **Video Block Title:** “Start Your 30-Day Awakening Journey”\n**Subtitle:** Watch how daily meditation is rewiring lives.\n\n\n\n"
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
