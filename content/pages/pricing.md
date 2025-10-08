@@ -78,9 +78,9 @@ sections:
       - title: Sage
         price: Rs. 299/-
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          To embody wisdom through experience, balance knowledge with
+          compassion, and lead through presence and discernment.
         features:
           - Feature one
           - Feature two
