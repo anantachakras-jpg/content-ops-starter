@@ -87,7 +87,7 @@ sections:
         features:
           - Everything in Seeker + Illuminator tiers
           - Personalized spiritual guidance & mentorship
-          - Feature three
+          - Exclusive advanced masterclasses & rituals
           - Feature four
           - Feature five
         image:
