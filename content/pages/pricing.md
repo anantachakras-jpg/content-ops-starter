@@ -50,7 +50,7 @@ sections:
           To shine clarity on paths unseen, inspire understanding, and guide
           others with insight and light.
         features:
-          - Feature one
+          - Everything in Seeker tier
           - Feature two
           - Feature three
           - Feature four
